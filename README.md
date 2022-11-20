@@ -15,7 +15,7 @@ LocalHost uygulamasının stabilize çalıştığını teyit eder.
 
 ✓LocalHost {APK} uygulaması olası bir bağlantı kesintisinde tekrar ve tekrar bulana kadar ağı tarar aradığı {RemoteAdress & LocalPort} server ağına bağlantısı olanları bunuda "java=DelayedConnectionAborted" ile gerçekleştirir ve bağlantı kurduğunda aramayı bitirir. 
 
-![alt text](https://i.hizliresim.com/7pear64) 
+![alt text](https://i.hizliresim.com/b072luv.jpg) 
 
 Server client test {APK} uygulaması açık port bağlantısı yapmak istiyenlerin kullanmasını tavsiye ediyorum.
 
